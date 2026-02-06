@@ -4,14 +4,15 @@ This is my final project after completing the “Responsive Web Design” course
 
 ## Here are a few images below to give a first impression.
 
-![1000008293](https://github.com/user-attachments/assets/e2346bfd-ebf3-4f56-a813-9990f10e419b)
-![1000008291](https://github.com/user-attachments/assets/e09597e7-2271-4ba4-a206-cf88495892f6)
-![1000008275](https://github.com/user-attachments/assets/b9f4f5b9-ff07-44af-9444-a8f0f8cd1ffe)
-![1000008286](https://github.com/user-attachments/assets/a8eb97b8-584f-4ac3-9a46-8d1edcd1e14a)
-![1000008283](https://github.com/user-attachments/assets/bd5a906b-b92f-477b-b6a4-d2433494ad26)
-![1000008273](https://github.com/user-attachments/assets/919b5b42-f227-457e-a6c8-9607182e9cfc)
+![1000008295](https://github.com/user-attachments/assets/2fc3de04-0a46-4844-ab49-cf87ece88032) <br>
+![1000008293](https://github.com/user-attachments/assets/e2346bfd-ebf3-4f56-a813-9990f10e419b) <br>
+![1000008291](https://github.com/user-attachments/assets/e09597e7-2271-4ba4-a206-cf88495892f6) <br>
+![1000008275](https://github.com/user-attachments/assets/b9f4f5b9-ff07-44af-9444-a8f0f8cd1ffe) <br>
+![1000008286](https://github.com/user-attachments/assets/a8eb97b8-584f-4ac3-9a46-8d1edcd1e14a) <br>
+![1000008283](https://github.com/user-attachments/assets/bd5a906b-b92f-477b-b6a4-d2433494ad26) <br>
+![1000008273](https://github.com/user-attachments/assets/919b5b42-f227-457e-a6c8-9607182e9cfc) <br>
 ![1000008270](https://github.com/user-attachments/assets/b5f2c32a-6130-4222-8c09-f2c3e847ac6b)
-![1000008295](https://github.com/user-attachments/assets/2fc3de04-0a46-4844-ab49-cf87ece88032)
+
 
 
 
